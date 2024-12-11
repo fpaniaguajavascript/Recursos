@@ -11,3 +11,6 @@ Enlaces a recursos relacionados con JavaScript
   <li><a href='https://edube.org/study/jse2'>Curso JavaScript Essentials 2 Edube</a></li>
   <li><a href='https://learn.microsoft.com/es-es/shows/beginners-series-to-javascript/'>Serie sobre JavaScript para principiantes Microsoft</a></li>
 </ul>
+
+## Varios
+<a href='https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax'>Markdown en ficheros README.md de GitHub</a>
