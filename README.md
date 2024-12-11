@@ -13,4 +13,7 @@ Enlaces a recursos relacionados con JavaScript
 </ul>
 
 ## Varios
-<a href='https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax'>Markdown en ficheros README.md de GitHub</a>
+<ul>
+  <li><a href='https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax'>Markdown en ficheros README.md de GitHub</a></li>
+  <li><a href='https://pages.github.com/'>GitHub Pages</a></li>
+</ul>
