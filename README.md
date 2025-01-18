@@ -1,5 +1,8 @@
 # Recursos
 Enlaces a recursos relacionados con JavaScript
+
+![Aula de un curso de Python](https://fpaniaguajavascript.github.io/recursos/js-image.webp)
+
 ## JavaScript
 <ul>
   <li><a href='https://developer.mozilla.org/es/docs/Web/JavaScript'>JavaScript MDN</a></li>
