@@ -14,6 +14,7 @@ Enlaces a recursos relacionados con JavaScript
   <li><a href='https://edube.org/study/jse2'>Curso JavaScript Essentials 2 Edube</a></li>
   <li><a href='https://learn.microsoft.com/es-es/shows/beginners-series-to-javascript/'>Serie sobre JavaScript para principiantes Microsoft</a></li>
   <li><a href='https://fpaniaguajavascript.github.io/JS-OOP.pdf'>(Breve) Introducción a la Programación Orientada a Objetos (PDF)</a></li>
+  <li><a href='https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Classes'>MDN - Clases</a></li>
 </ul>
 
 ## Web
